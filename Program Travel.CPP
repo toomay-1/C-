@@ -1,3 +1,5 @@
+//This program isn't finish yet, still in progress :)
+
 #include <iostream.h>
 #include <conio.h>
 
